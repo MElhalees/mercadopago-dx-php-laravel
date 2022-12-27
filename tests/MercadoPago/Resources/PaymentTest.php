@@ -1,5 +1,7 @@
 <?php 
 
+namespace MercadoPago\Resources;
+
 use PHPUnit\Framework\TestCase;
 
 /**

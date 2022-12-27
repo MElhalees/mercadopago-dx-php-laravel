@@ -1,6 +1,6 @@
 <?php 
 
- 
+namespace MercadoPago\Resources;
 
 /**
  * EntityTest Class Doc Comment
