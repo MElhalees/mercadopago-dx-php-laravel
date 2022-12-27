@@ -38,7 +38,7 @@
     "psr-4": {
       "MercadoPago\\": [
         "src/MercadoPago/",
-        "tests/",
+        "tests/MercadoPago/",
         "src/MercadoPago/Entities/",
         "src/MercadoPago/Entities/Shared/"
       ]
